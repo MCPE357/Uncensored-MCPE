@@ -17,7 +17,7 @@ you can use any swear name for player and item
 
 <img src="https://github.com/MCPE357/Uncensored-MCPE/blob/main/Polish_20220630_162946682.png" alt="logo"/><br>
 
-<img src="https://github.com/MCPE357/Uncensored-MCPE/blob/main/Screenshot_20220629-175116.png" alt="logo"/><br>
+<img src="https://raw.githubusercontent.com/MCPE357/Uncensored-MCPE/main/Screenshot_20220630-170108.png" alt="logo"/><br>
 
 
 Full Changelog: https://github.com/MCPE357/Uncensored-MCPE/commits/1.19.2
