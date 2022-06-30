@@ -12,8 +12,10 @@ you can use swear words without getting censored by microsoft
 removed xbox account report (Issue: If you tap the report button ur game crashes)
 <img src="https://raw.githubusercontent.com/MCPE357/Uncensored-MCPE/main/Polish_20220630_161447714.png" alt="logo"/><br>
 you can use any swear name for player and item
+
 <img src="https://github.com/MCPE357/Uncensored-MCPE/blob/main/Screenshot_20220630-162101~2.png" alt="logo"/><br>
 
+<img src="https://github.com/MCPE357/Uncensored-MCPE/blob/main/Polish_20220630_162946682.png" alt="logo"/><br>
 
 Full Changelog: https://github.com/MCPE357/Uncensored-MCPE/commits/1.19.2
 # This apk allows you to swear without censoring by microsoft!
