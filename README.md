@@ -6,6 +6,7 @@ New:
 you can use swear words without getting censored by microsoft
 
 removed xbox account report (Issue: If you tap the report button ur game crashes)
+https://raw.githubusercontent.com/MCPE357/Uncensored-MCPE/main/Polish_20220630_161447714.png
 
 you can use any swear name for player and item
 
