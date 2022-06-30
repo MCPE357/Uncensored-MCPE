@@ -1,5 +1,5 @@
 # Uncensored-MCPE
-Download: https://github.com/MCPE357/Uncensored-MCPE/blob/main/Uncensored-MCPE-1.19.2.zip
+Download: https://www.mediafire.com/file/wk1tv809z9jf9cu/UncensoredPE(1.19.2).apk/file
 We don't take responsibility if your data corrupts using this apk!
 Make backup of your game folder if you have used cracked cracked version before, if you have the google play version bought press the install button!
 
