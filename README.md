@@ -21,6 +21,5 @@ you can use any swear name for player and item
 
 
 Full Changelog: https://github.com/MCPE357/Uncensored-MCPE/commits/1.19.2
-# This apk allows you to swear without censoring by microsoft!
-# Report system doesn't work
+
 # Todo: remove ban, remove report button (currently the game crashes)
